@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+我平常喜欢突发奇想，在这里随便聊一聊数学，统计，计算机！
